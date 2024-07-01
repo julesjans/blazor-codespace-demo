@@ -33,7 +33,8 @@
 				"GitHub.vscode-github-actions",
 				"ms-dotnettools.vscode-dotnet-runtime",
 				"ms-dotnettools.csharp",
-				"ms-mssql.mssql"
+				"ms-mssql.mssql",
+				"ms-dotnettools.blazorwasm-companion"
 			]
 		}
 	},
