@@ -37,7 +37,6 @@ $RECYCLE.BIN/
 # Visual Studio
 # =========================
 .vs/
-.vscode/
 *.opendb
 *.openproj
 *.dbmdl
