@@ -7,7 +7,6 @@
             "request": "launch",
             "cwd": "${workspaceFolder}",
             "program": "${workspaceFolder}/blazor-codespace-demo.csproj",
-            "trace": true,
             "browser": "edge",
             "env": {
                 "ASPNETCORE_ENVIRONMENT": "Development"
